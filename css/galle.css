@@ -1,0 +1,187 @@
+/* CSS Document */
+body {background-color:#6CF; padding-top: 10px;}
+h2 {color:#900; text-align:center; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
+h3 {color:#663; text-align:center; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
+
+.mainportal {float:right;background-color:#66FFFF; text-align:center; height:15em; width: 14em; font-size:12px; opacity: 0.8; border-radius: 8em 8em 8em 8em; font-family:cursive;}
+
+.mainportal {background-color:#C0F; animation-name: yes; animation-duration: 3s; animation-iteration-count: infinite; animation-direction: alternate; position:relative;}
+@keyframes yes{
+    0%   {background-color: #C0F;}
+    25%  {background-color: #CFF;}
+    50%  {background-color: #6CF;}
+    100% {background-color: #6F0; top:30em;}
+}
+.polaroid {
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+  position:static; margin-top: 2em; margin-bottom: 5em;
+ }
+.container {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+.polaroid1 { margin-top: -25em; margin-left:28em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+  position:static;
+}
+.container1 {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+
+.polaroid2 {
+  width: 30%; margin-left:56em; margin-top: -20em;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+	
+}
+.container2 {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+  }
+.polaroid3 {margin-top: 2em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+}
+.container3 {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+.polaroid4{margin-left: 28em; position:static; margin-top:-21em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+ }
+.container4{
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+.polaroid5 { margin-top: -20em; margin-left:56em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+  
+}
+.container5 {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+
+.polaroid6 { margin-top: 2em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+}
+.container6 {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+  }
+.polaroid7 {margin-left:28em; margin-top: -20em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+}
+.container7 {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+.polaroid8 {margin-top: -20em; margin-left:56em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+}
+.container8 {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+.polaroidA { margin-top: -25em; margin-left:30em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+  position:static;
+}
+.containerA {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+
+.polaroidB {
+  width: 30%; margin-top: 3em;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+	
+}
+.containerB {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+  }
+.polaroidC { margin-top:-20em; margin-left: 30em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+}
+.containerC {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+  .polaroidD {
+  width: 30%; margin-top: 3em;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+	
+}
+.containerD {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+  }
+.polaroidE { margin-top:-21em; margin-left: 30em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+}
+.containerE {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+.polaroidf { margin-top:3em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+}
+.containerf {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+  .polaroidg { margin-top:-21em; margin-left: 30em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+}
+.containerg {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+
+
+	

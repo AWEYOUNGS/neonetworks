@@ -1,0 +1,74 @@
+/* CSS Document */
+body {background-color:#9FC; padding-top: 10px;}
+h2 {color:#900; text-align:center; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
+h3 {color:#663; text-align:center; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
+
+.fiber { background-color:#0C6; width: 45em; height: 33em; color:#603; list-style:lower-roman; border-radius:5%; text-align:justify; line-height: 25px; position:static; padding: 2px 5px;
+}
+.fib { width:30%; float:right; margin-top: -36em; }
+
+.polaroidI{
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+  position:static; margin-top: 2em; margin-bottom: 5em;
+ }
+.containerI{
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+.polaroidII{ margin-top: -25em; margin-left:28em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+  position:static;
+}
+.containerII{
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+
+.polaroidIII {
+  width: 30%; margin-left:56em; margin-top: -20em;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+	
+}
+.containerIII {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+  }
+.polaroidIV {margin-top: 2em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+}
+.containerIV {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+.polaroidV{margin-left: 28em; position:static; margin-top:-20.2em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+ }
+.containerV{
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+.polaroidVI { margin-top: -20.2em; margin-left:56em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+  
+}
+.containerVI {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}

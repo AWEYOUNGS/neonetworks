@@ -1,0 +1,74 @@
+/* CSS Document */
+body {background-color:#FCC; padding-top: 10px;}
+h2 {color:#900; text-align:center; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;}
+h3 {color:#663; text-align:center; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.infrared { background-color:#F9F; width: 45em; height: 40em; color:#603; border-radius:5%; text-align:justify; line-height: 25px; position:static; padding: 3px 5px;
+}
+.inf { width:29%; float:right; margin-top: -37.5em; }
+
+.polaroidI{
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+  position:static; margin-top: 2em; margin-bottom: 3.5em;
+ }
+.containerI{
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+.polaroidII{ margin-top: -25.5em; margin-left:28.5em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+  position:static;
+}
+.containerII{
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+
+.polaroidIII {
+  width: 30%; margin-left:57em; margin-top: -22em;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+	
+}
+.containerIII {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+  }
+.polaroidIV {margin-top: 2em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+}
+.containerIV {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+.polaroidV{margin-left: 28.5em; position:static; margin-top:-21em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+ }
+.containerV{
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
+.polaroidVI { margin-top: -21em; margin-left:57em;
+  width: 30%;
+  background-color:#CCC;
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.7);
+  
+}
+.containerVI {
+  text-align: center;
+  padding: 10px 10px;
+  font-size:12px;
+}
